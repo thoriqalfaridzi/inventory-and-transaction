@@ -1,0 +1,103 @@
+/* Table Styles */
+header {
+    padding: -10px -10px;
+    /* display: flex; */
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(255, 0, 200);
+}
+header h2
+{
+
+    /* font-weight: 700;
+    text-decoration: none;
+    
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-left: 0px;
+    left: 0px; */
+
+    /* 1 */
+    background-color: aqua;
+    top: 10px;
+    font-size: 1,5em;
+
+    width: 40%; 
+    height: 2%;  
+
+    /* 2 */
+    /* background-color: aqua;
+    top: 10px;
+    font-size: 1,5em;
+
+    width: 30%; 
+    height: 2%;  */
+}
+header h1 {
+    text-align: center;
+    margin-top: 0px;
+    font-size: 150%;
+    background-color: rgb(0, 255, 76);
+    width: 100%; 
+}
+/* h2{
+    font-size: 170%;
+    border: 0px solid #ffffff;
+    padding: 0px;
+    align-self: flex-start;
+} */
+h3{
+    font-size: 200%;
+    border: 0px solid #ffffff;
+    padding: 0px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table th {
+    padding: 10px;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    font-size: 15px;
+  }
+  
+  table td {
+    padding: 10px;
+    border-top: 1px solid #ffffff;
+    text-align: center;
+    font-size: 15px;
+  }
+  
+.awal{
+    padding: 1px;
+    border: 1px solid #ffffff;
+    text-align: left;
+    font-size: 15px;
+
+}
+.totalharga{
+    padding: 10px;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #ffffff;
+    
+
+}
+
+.logo {
+    
+    top: 10px;
+    left: 0px;
+    bottom: 10px;
+    width: 13%; 
+    height: 13%;
+}
+.logo-portrait {
+    /* position: absolute; */
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    width: 20%; 
+    height: 5%;
+}

@@ -1,0 +1,28 @@
+Penanda Biaya Lain
+
+Penanda Inventory
+
+Penanda Master Item
+
+Penanda Master Kategori
+1,SparePart
+2,Elektrik
+
+Penanda Master Member
+
+Penanda Master Satuan
+1,Km
+2,Cm
+
+Penanda Master Supplier
+13,AAA Suppli,Namasuplier1,sp1,cp1,te1,h1
+14,A112,sup2,s2,c2,2,4
+
+Penanda Retur Pembelian
+
+Penanda Retur Penjualan
+
+Penanda Transaksi Pembelian
+
+Penanda Transaksi Penjualan
+
